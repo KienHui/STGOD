@@ -8,12 +8,12 @@ The Tsaj
 
  A Tsaj does not need to be touching in order to maintain cohesion. Proximity alone is enough, though touching makes them more resilient. 
 
- Physiologically, the worms resemble the common tube in tube design. That is, they are roughly tube shaped, with a digestive track going down the center. The worms are omnivorous, and collectively in a Tsaj feedly roughly continuously. Each worm has a main eye, with a small vesgistal second eye.
+ Physiologically, the worms resemble the common tube in tube design. That is, they are roughly tube shaped, with a digestive track going down the center. The worms are omnivorous Each worm has a main eye, with a small vesgistal second eye. They reproduce sexually. The Tsaj practice artifical selection on their worms to improve their constituents' health.
 
 # Sociology
 Due to their biology, warfare amongst the Tsaj in pre-history was difficult and often inconclusive. It wasn't until they encountered other species that they recieved their first lesson in modern warfare. That isn't to say that fights didn't occur.
 
-Tsaj society changed significantly when it grew beyond the tribal level, as they stopped being able to easily trade worms to keep their thoughts in sync. However, the Tsaj
+Tsaj society changed significantly when it grew beyond the tribal level, as they stopped being able to easily trade worms to keep their thoughts in sync. However, the Tsaj construct representatives from each clan, representing them in government at a higher level.
 
 # Technology
 ## Weapons
@@ -47,16 +47,16 @@ The Tsaj maintain a relatively small number of types of warship. Warship fleets 
 ## Classes
 ### Battleship
 500pts
-The largest warship type. Bristles with needle casters and missile launchers. It would be incorrect to say it's equipped with point defense so much as it is literally coated with it. There is barely a square meter of surface that doesn't have a phaser panel mounted.
+The largest warship type. Bristles with needle casters and missile launchers. It would be incorrect to say it's equipped with point defense so much as it is literally coated with it. There is barely a square meter of surface that doesn't have a phaser panel mounted. Typical crew of 400. Often found with a pair of sloops attached to provide additional point defense capability.
 ### Frigate
 50pts
-Workhorse of the fleet.
+Workhorse of the fleet. Typical crew of 100. Carries a quartet of cutters.
 ### Sloop
 5pts
-Light warship, typically used for trade protection (convoy protection, anti-piracy, etc.).
+Light warship, typically used for trade protection (convoy protection, anti-piracy, etc.). Often carries a pair of cutters for boarding actions, stored externally. Carries a normal crew of 8, plus crew for cutters, boarding teams, etc.
 ### Cutter
 .5pts
-The smalllest warship type. Can be used as effective spacefighters. When in that role, are remote piloted through hyperwave. Also, not equipped with a hyperdrive, reserving the space and weight that would be allocated for such towards reactor and shielding. Unlike large warships, when equipped as a fighter, it utilizes single shot missile launchers. Most commonly used in combat as fleet defense.
+The smalllest warship type. Can be used as effective spacefighters. When in that role, are remote piloted through hyperwave. Also, not equipped with a hyperdrive, reserving the space and weight that would be allocated for such towards reactor and shielding. Unlike large warships, when equipped as a fighter, it utilizes single shot missile launchers. Most commonly used in combat as fleet defense. Usually one man crew, with options for boarding teams as necessary.
 ### Aerofighter
 .05pts
-Not deep space capable. Instead, it provides near space and atmospheric combat capabilites. Has a distinctive
+Not deep space capable. Instead, it provides near space and atmospheric combat capabilites. Has a distinctive delta wing with retractable canards.
