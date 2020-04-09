@@ -57,12 +57,15 @@ The largest warship type. Bristles with needle casters and missile launchers. It
 ### Frigate
 50pts
 Workhorse of the fleet. Typical crew of 100. Carries a quartet of cutters.
+### Carrier
+0pts + 60 cutters
+Although in the warship category, not actually a warship. Rather a representation of civilian cargoships pressed into service as carriers. When so used, they rapidly deploy cutters, then hyper out of the area. 
 ### Sloop
 5pts
 Light warship, typically used for trade protection (convoy protection, anti-piracy, etc.). Often carries a pair of cutters for boarding actions, stored externally. Carries a normal crew of 8, plus crew for cutters, boarding teams, etc.
 ### Cutter
 .5pts
-The smalllest warship type. Can be used as effective spacefighters. When in that role, are remote piloted through hyperwave. Also, not equipped with a hyperdrive, reserving the space and weight that would be allocated for such towards reactor and shielding. Unlike large warships, when equipped as a fighter, it utilizes single shot missile launchers. Most commonly used in combat as fleet defense. Usually one man crew, with options for boarding teams as necessary.
+The smalllest warship type. Can be used as effective spacefighters. When in that role, are remote piloted through hyperwave. In such case, the controller is either on a nearby warship, or on a nearby planet. Also, not equipped with a hyperdrive, reserving the space and weight that would be allocated for such towards reactor and shielding. Unlike large warships, when equipped as a fighter, it utilizes single shot missile launchers. Most commonly used in combat as fleet defense. Usually one man crew, with options for boarding teams as necessary.
 ### Aerofighter
 .05pts
 Not deep space capable. Instead, it provides near space and atmospheric combat capabilites. Has a distinctive delta wing with retractable canards.
