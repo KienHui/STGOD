@@ -1,4 +1,5 @@
 The Tsaj
+
 # Biology
  The Tsaj is a collection of gestalt minds. Each individual Tsaj is made up of worms. Each worm is relatively mindless, but when they form into a mass, their intelligence massively increases, in a approximately logistic function. Memories can be transfered between Tsaj, by transferring individual worms, however, only those worms that were there when the memory was formed will have the memory.  Tsaj are effectively immortal, as although their constituents die over time, the conciousness remains so long as the swarm remains coherent. However, they lose their memories over time. So unwrittten history gets lost. Skills remain known so long as they get regularly practiced, but if not used, they are lost when the last component which remembers the skill dies. They effectively have no childhood, as they spring into existence as their "parent(s)" provide the requisite number of worms to provide sentience, with full memories and skill sets.
 
@@ -16,6 +17,7 @@ Tsaj society changed significantly when it grew beyond the tribal level, as they
 There are no schools per se. After all, there's no childhood or adolescence. If a Tsaj wants to learn a skill, they find a master, and the master trades them a worm with the appropriate memories to be able to perform the skill. Usually this is an equivalent exchange. 
 ## Religon
 They don't have one. They don't wonder what happens after death because it rarely comes for them. Only by misadventure do they normally die. They find the concept strange. Which isn't to say that they don't have ethics.
+
 
 # Technology
 ## Weapons
